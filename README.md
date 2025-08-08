@@ -22,7 +22,7 @@ This is a basic **Student Management System** web application built with PHP and
 1. Clone the repository or download the source code.
 2. Set up a local or remote server with PHP and MySQL (e.g., XAMPP, WAMP).
 3. Create a MySQL database named `student`.
-4. Import the following table schema or create the `my_std` table manually with appropriate columns for student data including a `picture` field (varchar).
+4. Create the `my_std` table manually with appropriate columns for student data including a `picture` field (varchar).
 5. Place the project files inside your server's root directory (`htdocs` or `www`).
 6. Create a folder named `imgcrud` inside the project directory for storing student images.
 7. Access the project via your browser (e.g., `http://localhost/your-project-folder/CRUD.php`).
